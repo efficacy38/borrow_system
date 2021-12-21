@@ -1,0 +1,15 @@
+
+.eventContainerHeader{
+    display: block;
+    width: 100%;
+    position: relative;
+    background-color: #1a252f;
+    color: aliceblue;
+    height: fit-content;
+}
+
+.eventContainer{
+    background-color: #576375 ;
+    bottom: 0;
+    position: relative;
+}
